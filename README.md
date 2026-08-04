@@ -2,7 +2,12 @@
 
 💻 Java Full Stack Developer | Spring Boot | React | MySQL
 
----
+---## 📫 Reach Me
+
+- 📧 **Email:** myganesh2004@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/ganesh-dev64
+- 💻 **Portfolio:** https://ganeshdev-64.netlify.app
+- 🧩 **LeetCode:** https://leetcode.com/u/gkmcarrier/
 
 ## 🌐 Connect with Me
 
@@ -64,9 +69,4 @@ Responsive portfolio showcasing my projects and skills.
 
 ---
 
-## 📫 Reach Me
 
-- 📧 **Email:** myganesh2004@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/ganesh-dev64
-- 💻 **Portfolio:** https://ganeshdev-64.netlify.app
-- 🧩 **LeetCode:** https://leetcode.com/u/gkmcarrier/
