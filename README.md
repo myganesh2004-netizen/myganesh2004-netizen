@@ -7,7 +7,7 @@
 ## 🌐 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/ganesh-dev64/">
+<a href="https://www.linkedin.com/in/ganesh-dev64">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -29,7 +29,7 @@
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,mongodb,git,github,docker,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,mysql,mongodb,git,github,docker,postman,vscode"/>
 </p>
 
 ---
@@ -37,54 +37,36 @@
 ## 🚀 Featured Projects
 
 ### 🍔 Food Delivery Application
-Java, JSP, Servlets, JDBC, MySQL
+**Java • JSP • Servlets • JDBC • MySQL**
 
 - Restaurant & Menu Management
-- Cart & Order Processing
 - User Authentication
+- Cart & Order Processing
 - Responsive UI
 
-🔗 **Repository:** *(Add your GitHub repository link here)*
+🔗 **Repository:** *(Add your GitHub repository link)*
 
 ---
 
 ### 🌐 Portfolio Website
-Responsive personal portfolio built with HTML, CSS, and JavaScript.
+
+Responsive portfolio showcasing my projects and skills.
 
 🔗 https://ganeshdev-64.netlify.app
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=myganesh2004-netizen&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myganesh2004-netizen&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=myganesh2004-netizen&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=myganesh2004-netizen&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myganesh2004-netizen&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📫 Reach Me
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=myganesh2004-netizen&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=myganesh2004-netizen&label=Profile+Views&style=for-the-badge"/>
-</p>
+- 📧 **Email:** myganesh2004@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/ganesh-dev64
+- 💻 **Portfolio:** https://ganeshdev-64.netlify.app
+- 🧩 **LeetCode:** https://leetcode.com/u/gkmcarrier/
