@@ -1,110 +1,256 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ganesh%20Kumar%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=58&descSize=18" />
+<div align="center">
+
+# Hi 👋, I'm Ganesh Kumar M
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Problem+Solver+%7C+Open+Source+Learner;Building+Scalable+Web+Applications" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0A84FF,100:6C63FF&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=38&animation=fadeIn" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 BE Computer Science Engineering (2022 – 2026)
+
+💻 Passionate Java Full Stack Developer
+
+🌱 Currently learning
+
+- Spring Boot
+- REST APIs
+- React
+- System Design
+
+🚀 Currently Building
+
+Food Delivery Application using
+
+- Java
+- JSP
+- Servlets
+- MySQL
+
+🎯 Career Goal
+
+To become a Software Engineer building scalable applications that solve real-world problems.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+%E2%80%A2+React+%E2%80%A2+MySQL;Building+a+Food+Delivery+App;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+
+<a href="https://www.linkedin.com/in/ganesh-dev64">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:myganesh2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://ganeshdev-64.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://instagram.com/mr_assaulter004">
+<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🍔 Food Delivery Application
+
+> Java • JSP • Servlets • JDBC • MySQL
+
+✔ Restaurant Listing
+
+✔ Menu Management
+
+✔ Cart
+
+✔ Orders
+
+✔ User Authentication
+
+✔ Responsive UI
+
+---
+
+## 🎓 Student Management System
+
+> Java • MySQL • HTML • CSS • JavaScript
+
+✔ Student Attendance
+
+✔ Result Management
+
+✔ Login Authentication
+
+✔ CRUD Operations
+
+---
+
+## 🎬 Netflix Clone
+
+> HTML • CSS • JavaScript
+
+✔ Responsive Design
+
+✔ Modern Animations
+
+✔ Landing Page UI
+
+---
+
+## 🌐 Portfolio Website
+
+> HTML • CSS • JavaScript
+
+✔ Responsive
+
+✔ Smooth Animations
+
+✔ Dark Theme
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=myganesh2004-netizen&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myganesh2004-netizen&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-dev64/"><img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:myganesh2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ganeshdev-64.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://instagram.com/mr_assaulter004"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=myganesh2004-netizen&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<br>
+---
 
-## 👨‍💻 About Me
-
-```yaml
-name: Ganesh Kumar M
-role: Full Stack Developer
-location: Vellore, Tamil Nadu, India
-education: BE Computer Science (CGPA 8.2, graduating 2026)
-currently_building: Food Delivery Application
-currently_learning: Backend Frameworks & APIs
-open_to: Full-time roles · Internships · Freelance
-```
-
-<br>
-
-## 🧰 Tech Stack
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,nodejs,express,mysql,mongodb,git,github,docker,vscode,figma" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=myganesh2004-netizen&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
-<br>
+---
 
-## 📈 GitHub Stats & Activity
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=myganesh2004-netizen&show_icons=true&theme=tokyonight&hide_border=true&icon_color=2F81F7&title_color=2F81F7" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myganesh2004-netizen&layout=compact&theme=tokyonight&hide_border=true&title_color=2F81F7" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=myganesh2004-netizen&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 </p>
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myganesh2004-netizen&theme=tokyonight&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+
+<a href="https://leetcode.com/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/">
+
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</a>
+
 </p>
+
+---
+
+# 🎯 Current Goals
+
+- ✅ Master Spring Boot
+- ✅ Learn Microservices
+- ✅ Build REST APIs
+- ✅ Improve DSA
+- ✅ Contribute to Open Source
+- ✅ Land Software Engineer Role
+
+---
+
+# 💬 Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
+
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=myganesh2004-netizen&theme=tokyo-night&hide_border=true&area=true" width="97%" />
+
+<img src="https://komarev.com/ghpvc/?username=myganesh2004-netizen&style=for-the-badge&color=0A84FF"/>
+
 </p>
 
-<br>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myganesh2004-netizen&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
-<br>
-
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎓 [Student Management System](https://github.com/myganesh2004-netizen/Student-Management-System/tree/main/student-management-system)
-Attendance & results system with authentication and role-based access control.
-
-`Java` `MySQL` `HTML` `CSS` `JS`
-
-</td>
-<td width="33%" valign="top">
-
-### 🎬 [Netflix Clone](https://github.com/myganesh2004-netizen/homeprj.gkm)
-Responsive Netflix UI clone with smooth intro animations.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 [Portfolio](https://github.com/myganesh2004-netizen/Portfolio)
-Personal digital resume site — clean, modern, and interactive.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/myganesh2004-netizen/myganesh2004-netizen/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
-<sub align="center">⚠️ Needs the included <code>snake.yml</code> Action to run once to generate.</sub>
-
-<br><br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=myganesh2004-netizen&label=Profile%20Views&color=2F81F7&style=for-the-badge" alt="profile views" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0A84FF,100:6C63FF"/>
