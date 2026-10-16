@@ -2,7 +2,10 @@
 
 💻 Java Full Stack Developer | Spring Boot | React | MySQL
 
-Working REPO: https://github.com/ganeshdevvv-del
+Working <p>
+<img src="https://skillicons.dev/icons?i=github"/>
+</p>
+REPO: https://github.com/ganeshdevvv-del
 
 ## 📫 Reach Me
 
