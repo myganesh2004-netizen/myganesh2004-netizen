@@ -4,7 +4,7 @@
 
 🚀 Passionate about building web applications, learning new technologies, and solving real-world problems through code.
 
-🔗 **GitHub:** [github.com/ganeshdevvv-del](https://github.com/ganeshdevvv-del)
+🔗 **GitHub:** [ganeshdevvv-del](https://github.com/ganeshdevvv-del)
 
 Check MY Current GitHub Working PRO-fileee.
 
